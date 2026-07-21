@@ -17,14 +17,13 @@ I like the middle ground between design and code—sketching the flow, building 
 I'm available for full-time roles, freelance projects, and collaborations.
 
 - Focus: UI/UX Design, Frontend Development, and Web Design
-- Work Setup: Remote or Hybrid
+- Work Setup: Onsite, Remote or Hybrid
 - Location: Philippines
 
 If you're building something that needs a clean interface and thoughtful user experience, I'd love to hear about it.
 
-- Portfolio: https://basconcillogwen.vercel.app/
-- LinkedIn: Your LinkedIn Profile
-- Email: your-email@example.com
+- LinkedIn: www.linkedin.com/in/gwen-basconcillo-b09858423
+- Email: gwenbasconcillo11@gmail.com
 
 ## Tech Stack
 
