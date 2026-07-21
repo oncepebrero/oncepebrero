@@ -26,12 +26,6 @@ If you're building something that needs a clean interface and thoughtful user ex
 - LinkedIn: Your LinkedIn Profile
 - Email: your-email@example.com
 
-## Philosophy
-
-> Clarity over complexity.
-
-Good products should feel effortless to use. I believe design and development work best when they complement each other—combining usability, performance, and attention to detail.
-
 ## Tech Stack
 
 ### Design
@@ -75,11 +69,6 @@ Developed during my internship at New San Jose Builders Inc.
 - Implemented employee time tracking and reporting features.
 - Assisted with QA testing and technical documentation.
 
-### Portfolio Website
-
-A personal portfolio showcasing my projects, skills, and growth as a designer and developer.
-
-- Portfolio: https://basconcillogwen.vercel.app/
 
 ## Support
 
