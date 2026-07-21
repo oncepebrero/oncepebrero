@@ -60,12 +60,11 @@ If you're building something that needs a clean interface and thoughtful user ex
 
 ## Featured Projects
 
-### Attendance Monitoring System
+### DailyDrive Task Management System
 
 Developed during my internship at New San Jose Builders Inc.
 
 - Built with PHP, Node.js, and MySQL.
-- Implemented employee time tracking and reporting features.
 - Assisted with QA testing and technical documentation.
 
 
