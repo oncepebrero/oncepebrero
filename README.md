@@ -1,29 +1,49 @@
-# I'm Gwen Basconcillo
+# Hi, I'm Gwen Basconcillo
 
-UI/UX & Graphic Designer and Frontend Developer passionate about creating experiences that are simple, functional, and enjoyable to use.
+**UI/UX & Graphic Designer | Front-End Developer | Wireframing, Prototyping & Design Systems | Entry-Level QA Tester**
 
-I like the middle ground between design and code—sketching the flow, building it, then breaking it on purpose to make sure it holds up.
+I'm a BS Information Technology graduate passionate about designing intuitive user experiences, building responsive web applications, and ensuring software quality through testing. I enjoy working at the intersection of design, development, and quality assurance—transforming ideas into functional, user-centered digital experiences.
+
+---
 
 ## About Me
 
 - BS Information Technology graduate from Mindoro State University.
-- Built and designed web applications with PHP, Node.js, and MySQL.
-- Interested in UI/UX, frontend development, and web experiences.
-- Enjoy learning new tools and technologies, including Figma, React, and Next.js.
-- Open to opportunities, collaborations, and long-term growth.
+- Passionate about UI/UX design, graphic design, and frontend development.
+- Experienced in developing web applications using PHP, Node.js, MySQL, HTML, CSS, JavaScript, and Bootstrap.
+- Entry-level QA Tester with experience in manual testing, bug reporting, software validation, and technical documentation.
+- Skilled in wireframing, prototyping, and creating design systems.
+- Currently learning React, Next.js, and expanding my knowledge of modern frontend development and QA practices.
+- Open to full-time opportunities, freelance projects, and collaborations.
+
+---
 
 ## Work With Me
 
 I'm available for full-time roles, freelance projects, and collaborations.
 
-- Focus: UI/UX Design, Frontend Development, and Web Design
-- Work Setup: Onsite, Remote or Hybrid
-- Location: Philippines
+**Focus**
+- UI/UX Design
+- Graphic Design
+- Front-End Development
+- Entry-Level QA Testing
+- Web Design
 
-If you're building something that needs a clean interface and thoughtful user experience, I'd love to hear about it.
+**Work Setup**
+- Remote
+- Hybrid
+- On-site
 
-- LinkedIn: www.linkedin.com/in/gwen-basconcillo-b09858423
-- Email: gwenbasconcillo11@gmail.com
+**Location**
+- Philippines
+
+If you're building a product that values thoughtful design, clean code, and a great user experience, I'd love to connect.
+
+LinkedIn: www.linkedin.com/in/gwen-basconcillo-b09858423
+
+Email: gwenbasconcillo11@gmail.com
+
+---
 
 ## Tech Stack
 
@@ -35,17 +55,15 @@ If you're building something that needs a clean interface and thoughtful user ex
   </a>
 </p>
 
-<p>
-  Wireframing • Prototyping
-</p>
+Wireframing • Prototyping • Design Systems • User Interface Design • Graphic Design
 
-### Frontend
+### Front-End
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="Frontend Technologies" />
 </p>
 
-### Backend
+### Back-End
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,nodejs,mysql" alt="Backend Technologies" />
@@ -58,18 +76,25 @@ If you're building something that needs a clean interface and thoughtful user ex
   <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Laragon" />
 </p>
 
-## Featured Projects
+---
+
+## Featured Project
 
 ### DailyDrive Task Management System
 
 Developed during my internship at New San Jose Builders Inc.
 
-- Built with PHP, Node.js, and MySQL.
-- Assisted with QA testing and technical documentation.
+- Built using PHP, Node.js, and MySQL.
+- Contributed to frontend development and application features.
+- Assisted with manual QA testing, bug verification, and technical documentation.
+- Collaborated with the team to improve functionality and user experience.
 
+---
 
-## Support
+## Let's Connect
 
-If you find my work helpful or would like to support my growth as a developer and designer, I appreciate it.
+I'm interested in opportunities involving UI/UX Design, Graphic Design, Front-End Development, and Quality Assurance.
+
+If you think we'd be a good fit, feel free to reach out. I'm always open to learning, collaborating, and building meaningful digital products.
 
 Thanks for visiting my profile.
