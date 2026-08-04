@@ -1,6 +1,6 @@
 # I'm Gwen Basconcillo
 
-UI/UX Designer and Frontend Developer passionate about creating experiences that are simple, functional, and enjoyable to use.
+UI/UX & Graphic Designer and Frontend Developer passionate about creating experiences that are simple, functional, and enjoyable to use.
 
 I like the middle ground between design and code—sketching the flow, building it, then breaking it on purpose to make sure it holds up.
 
