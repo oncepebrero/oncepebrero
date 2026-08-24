@@ -82,7 +82,7 @@ Wireframing • Prototyping • Design Systems • User Interface Design • Gra
 
 ### DailyDrive Task Management System
 
-Developed during my internship at New San Jose Builders Inc.
+Developed at New San Jose Builders Inc.
 
 - Built using PHP, Node.js, and MySQL.
 - Contributed to frontend development and application features.
