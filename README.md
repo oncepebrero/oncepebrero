@@ -1,6 +1,6 @@
 # Hi, I'm Gwen Basconcillo
 
-**UI/UX Designer | Front-End & Web Developer | QA Tester**
+**UI/UX Designer | Front-End & Web Developer | QA Tester and Documentation**
 
 I'm a BS Information Technology graduate passionate about designing intuitive user experiences, building responsive web applications, and ensuring software quality through testing. I enjoy working at the intersection of design, development, and quality assurance—transforming ideas into functional, user-centered digital experiences.
 
