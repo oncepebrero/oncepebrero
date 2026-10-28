@@ -50,11 +50,14 @@ Email: gwenbasconcillo11@gmail.com
 
 ### Design
 <p align="left">
-  <a href="https://www.canva.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <a href="https://www.visual-paradigm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Visual_Paradigm-3B7DDD?style=for-the-badge&logoColor=white" alt="Visual Paradigm" />
   </a>
   <a href="https://www.framer.com/" target="_blank">
     <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" />
+  </a>
+  <a href="https://www.canva.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
   </a>
   <a href="https://www.capcut.com/" target="_blank">
     <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
