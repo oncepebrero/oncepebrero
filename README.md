@@ -69,8 +69,6 @@ Email: gwenbasconcillo11@gmail.com
 
 Wireframing • Prototyping • Design Systems • User Interface Design • Graphic Design • Photo Editing • Video Editing
 
-Wireframing • Prototyping • Design Systems • User Interface Design • Graphic Design • Video Editing
-
 ### Front-End
 
 <p align="left">
