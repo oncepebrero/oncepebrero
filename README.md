@@ -49,15 +49,22 @@ Email: gwenbasconcillo11@gmail.com
 ## Tech Stack
 
 ### Design
-
 <p align="left">
   <a href="https://www.canva.com/" target="_blank">
     <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
   </a>
+  <a href="https://www.framer.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" />
+  </a>
   <a href="https://www.capcut.com/" target="_blank">
     <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
   </a>
+  <a href="https://picsart.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Picsart-C209C1?style=for-the-badge&logo=picsart&logoColor=white" alt="Picsart" />
+  </a>
 </p>
+
+Wireframing • Prototyping • Design Systems • User Interface Design • Graphic Design • Photo Editing • Video Editing
 
 Wireframing • Prototyping • Design Systems • User Interface Design • Graphic Design • Video Editing
 
